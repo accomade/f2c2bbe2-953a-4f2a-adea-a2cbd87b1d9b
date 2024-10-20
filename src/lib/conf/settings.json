@@ -1,5 +1,5 @@
 {
-  "ACCOMADE_USER_ID": "template1",
-  "PUBLIC_MAPS_API_KEY": "AIzaSyDq3oBKZS7pOhPLj1iSGkCB07tTdEWTSM0",
-  "PUBLIC_SUPABASE_URL": "https://ipajhcabityibeaqfzju.supabase.co"
+  "PUBLIC_MAPS_API_KEY": "",
+  "PUBLIC_SUPABASE_URL": "http://localhost:54321",
+  "ACCOMADE_USER_ID": "f2c2bbe2-953a-4f2a-adea-a2cbd87b1d9b"
 }
